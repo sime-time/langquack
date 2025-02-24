@@ -3,8 +3,8 @@ import Nav from "@/components/Nav";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RAG Chat",
-  description: "Built by Simeon",
+  title: "Langquack",
+  description: "AI language-learning tool",
 };
 
 export default function RootLayout({

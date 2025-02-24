@@ -48,6 +48,7 @@ export default function SignUp() {
       }
 
       console.table(data?.user);
+      redirect("/dashboard");
 
     } catch (err) {
       console.error(err);
