@@ -9,17 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "@tailwindcss/postcss": "^4.0.8",
+    "better-auth": "^1.1.19",
+    "daisyui": "^5.0.0-beta.8",
+    "drizzle-orm": "^0.39.3",
+    "esbuild": "^0.25.0",
+    "next": "15.1.7",
+    "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.7"
+    "tailwindcss": "^4.0.8",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.30.4",
     "eslint": "^9",
     "eslint-config-next": "15.1.7",
-    "@eslint/eslintrc": "^3"
+    "typescript": "^5"
   }
 }
