@@ -15,6 +15,27 @@
       "when": 1740325674916,
       "tag": "0001_new_the_leader",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1740420411048,
+      "tag": "0002_colorful_warbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1740502714735,
+      "tag": "0003_flashy_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1740503650632,
+      "tag": "0004_kind_texas_twister",
+      "breakpoints": true
     }
   ]
 }
